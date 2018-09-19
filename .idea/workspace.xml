@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="652c9ebe-76ad-4af1-9ad7-b2088e40ad52" name="Default" comment="" />
+    <list default="true" id="652c9ebe-76ad-4af1-9ad7-b2088e40ad52" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/class-elvanto.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/class-elvanto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/give-elvanto/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/give-elvanto/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/give/templates/shortcode-receipt.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/give/templates/shortcode-receipt.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,85 +50,81 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-713873251">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="1597" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="1597" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/templates/shortcode-receipt.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-elvanto/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="252" column="52" selection-start-line="252" selection-start-column="48" selection-end-line="252" selection-end-column="52" />
+            <state relative-caret-position="368">
+              <caret line="23" column="85" lean-forward="true" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+              <folding>
+                <element signature="e#6#136#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/includes/forms/template.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/class-elvanto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3050">
-              <caret line="1623" column="60" selection-start-line="1623" selection-start-column="60" selection-end-line="1623" selection-end-column="60" />
+            <state relative-caret-position="144">
+              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/class/iPay88.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-mailchimp/includes/class-give-mailchimp.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="74" column="44" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="44" />
+            <state relative-caret-position="585">
+              <caret line="351" column="40" lean-forward="true" selection-start-line="351" selection-start-column="40" selection-end-line="351" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/give/templates/shortcode-receipt.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="317" column="6" lean-forward="true" selection-start-line="317" selection-start-column="6" selection-end-line="317" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-elvanto/class/class-elvanto.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-ipay88/class/iPay88.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/custom_fields.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/includes/admin/settings/class-settings-gateways.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/includes/admin/settings/class-settings-addon.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-elvanto/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <element signature="e#6#136#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="41" column="78" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -132,22 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>get_earnings_cache_key</find>
-      <find>f_give_gateway_ipay88</find>
-      <find>'</find>
-      <find>post</find>
-      <find>function give_get_meta</find>
-      <find>give_get_payment_completed_date</find>
-      <find>function give_date_format()</find>
-      <find>_request</find>
-      <find>give-form</find>
-      <find>give_purchase_form_wrap</find>
-      <find>call</find>
-      <find>publish</find>
-      <find>update dona</find>
-      <find>give_view_donation_details_update_after</find>
-      <find>give_is_payment_complete</find>
-      <find>$receipt_item</find>
       <find>donation_receipt</find>
       <find>purpose</find>
       <find>$give_receipt_args</find>
@@ -162,13 +147,36 @@
       <find>ipay88</find>
       <find>give_add_ipay88_settings</find>
       <find>give_settings_gateways</find>
+      <find>'type' =&gt; 'text'</find>
+      <find>MailChimp Sett</find>
+      <find>'type' =&gt;</find>
+      <find>add_filter</find>
+      <find>give_get_option</find>
+      <find>elvanto</find>
+      <find>elvant</find>
+      <find>$elvanto_</find>
+      <find>mailchimp_list_select</find>
+      <find>filter</find>
+      <find>Fee Rec</find>
+      <find>contrib</find>
+      <find>$show</find>
+      <find>ipay88_live_merchant_key</find>
+      <find>get_lists()</find>
+      <find>$donor_params</find>
     </findStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\newlife\wp-content\plugins\give</dir>
       <dir>C:\xampp\htdocs\newlife\wp-content\plugins</dir>
       <dir>C:\xampp\htdocs\newlife</dir>
       <dir>C:\xampp\htdocs\newlife\wp-content</dir>
+      <dir>C:\xampp\htdocs\stratium-nl</dir>
+      <dir>C:\xampp\htdocs\stratium-nl\wp-content\plugins\give-mailchimp</dir>
+      <dir>C:\xampp\htdocs\stratium-nl\wp-content\plugins</dir>
+      <dir>C:\xampp\htdocs\stratium-nl\wp-content\plugins\give</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -181,12 +189,13 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/class-elvanto-transact.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/give/includes/forms/template.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/class-elvanto-api.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/give-elvanto/index.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/give/includes/admin/payments/view-payment-details.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/give/templates/shortcode-receipt.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/give-ipay88/class/iPay88.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/class-elvanto.php" />
         <option value="$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-elvanto/class/class-elvanto.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/give-ipay88/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/give-elvanto/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/give/templates/shortcode-receipt.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/class-elvanto.php" />
       </list>
     </option>
   </component>
@@ -201,6 +210,7 @@
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -210,38 +220,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give" type="462c0819:PsiDirectoryNode" />
               <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give" type="462c0819:PsiDirectoryNode" />
@@ -249,8 +259,8 @@
               <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give" type="462c0819:PsiDirectoryNode" />
@@ -259,109 +269,49 @@
               <item name="settings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="give" type="462c0819:PsiDirectoryNode" />
-              <item name="includes" type="462c0819:PsiDirectoryNode" />
-              <item name="forms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="give" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="receipt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="give" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="single-give-form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give-elvanto" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give-elvanto" type="462c0819:PsiDirectoryNode" />
               <item name="class" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give-ipay88" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="give-ipay88" type="462c0819:PsiDirectoryNode" />
               <item name="class" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
+              <item name="stratium-nl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stratium-nl" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="give-pdf-receipts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-              <item name="gravityforms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="betheme-child" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newlife" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newlife-back" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
+              <item name="give-mailchimp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -372,10 +322,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reservation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stratium" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -419,23 +369,25 @@
       <workItem from="1536720835383" duration="7740000" />
       <workItem from="1536732467912" duration="119000" />
       <workItem from="1537315625020" duration="2153000" />
+      <workItem from="1537317915326" duration="17118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68845000" />
+    <option name="totallyTimeSpent" value="85963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28624734" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28944564" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Run" order="7" />
@@ -448,6 +400,27 @@
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28944564" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -455,70 +428,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/hello.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/themes/betheme-child/page-test-template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/single-portfolio.php" />
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-form-field-manager/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1973" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-form-field-manager/includes/class-frontend-form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="349" lean-forward="true" selection-start-line="349" selection-end-line="349" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-mailchimp/give-mailchimp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2244" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-form-field-manager/give-ffm.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-form-field-manager/includes/class-render-form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2329">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-pdf-receipts/give-pdf-receipts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1666">
-          <caret line="335" column="98" lean-forward="true" selection-start-line="335" selection-start-column="98" selection-end-line="335" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/templates/shortcode-totals-progress.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/template-blank.php" />
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/includes/admin/welcome.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="454" column="20" selection-start-line="454" selection-start-column="20" selection-end-line="454" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config.php" />
-    <entry file="file://$USER_HOME$/page.php" />
     <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/templates/receipt/placeholder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-51" />
@@ -682,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/includes/forms/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3050">
-          <caret line="1623" column="60" selection-start-line="1623" selection-start-column="60" selection-end-line="1623" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/templates/shortcode-receipt.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -696,13 +602,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-elvanto/index.php">
+    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/includes/forms/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25968">
+          <caret line="1623" column="60" selection-start-line="1623" selection-start-column="60" selection-end-line="1623" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/class/iPay88.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="74" column="44" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/custom_fields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#6#136#0#PHP" expanded="true" />
-          </folding>
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -716,24 +640,13 @@
     <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give/includes/admin/settings/class-settings-addon.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/class/iPay88.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="74" column="44" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/index.php">
+    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-elvanto/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../newlife-back/wp-content/plugins/give-ipay88/custom_fields.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#6#136#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -741,6 +654,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/LayerSlider/config/defaults.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-ipay88/custom_fields.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-mailchimp/give-mailchimp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="470" column="10" selection-start-line="470" selection-end-line="470" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-mailchimp/includes/class-give-newsletter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="122" column="67" selection-start-line="122" selection-start-column="59" selection-end-line="122" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/shortcode-receipt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="313" column="23" selection-start-line="313" selection-start-column="23" selection-end-line="313" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give/includes/admin/admin-actions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5184" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give/includes/admin/admin-pages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give/includes/admin/class-admin-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="76" column="35" lean-forward="true" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give/includes/admin/settings/class-settings-addon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-ipay88/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="77" lean-forward="true" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-mailchimp/includes/class-give-mailchimp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="351" column="40" lean-forward="true" selection-start-line="351" selection-start-column="40" selection-end-line="351" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-elvanto/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="85" lean-forward="true" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+          <folding>
+            <element signature="e#6#136#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give/templates/shortcode-receipt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="317" column="6" lean-forward="true" selection-start-line="317" selection-start-column="6" selection-end-line="317" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-elvanto/class/class-elvanto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/give-ipay88/class/iPay88.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="41" column="78" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="78" />
         </state>
       </provider>
     </entry>

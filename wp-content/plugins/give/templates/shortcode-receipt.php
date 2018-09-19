@@ -231,7 +231,10 @@ if ( filter_var( $give_receipt_args['status_notice'], FILTER_VALIDATE_BOOLEAN ) 
  */
 do_action( 'give_payment_receipt_before_table', $payment, $give_receipt_args );
 
-//Elvanto Plugin
+/**
+ * Elvanto Plugin
+ */
+
 if (is_plugin_active('give-elvanto/index.php')) {
     $elvanto_transaction = $donation_id;
     $elvanto_date = date_i18n( "Y-m-d", strtotime( give_get_payment_completed_date( $donation_id ) ) );
@@ -240,24 +243,11 @@ if (is_plugin_active('give-elvanto/index.php')) {
     $elvanto_donor_lname = $user['last_name'];
     $elvanto_email = $email;
     $elvanto_location = give_get_meta( $donation_id, 'church_location', true );
+    $elvanto_category = give_get_meta( $donation_id, 'purpose', true );
 
-    $elvanto_params = array(
-        'person' =>  array (
-            'firstname' => $elvanto_donor_fname,
-            'lastname' => $elvanto_donor_lname,
-            'email' => $elvanto_email
-        ),
-        'transaction_date' => $elvanto_date,
-        'amounts' => array (
-            array (
-                'category_id' => '2d22b056-84ad-4cd9-8aa6-16094693edc1',
-                'total' => $elvanto_donation,
-                'memo' => 'Transaction ID: ' . $elvanto_transaction
-            )
-        )
-    );
+    $elvanto_params = array($elvanto_transaction, $elvanto_date, $elvanto_donation, $elvanto_donor_fname, $elvanto_donor_lname, $elvanto_email, $elvanto_location, $elvanto_category);
 
-    Elvanto::give_elvanto_user_info($elvanto_params, $elvanto_location);
+    Elvanto::give_elvanto_user_info($elvanto_params);
 }
 ?>
 
