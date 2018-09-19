@@ -1,0 +1,45 @@
+/**
+ * Give MC Admin Styles
+ */
+
+.give-mailchimp-list-wrap {
+	border: 1px solid #ccc;
+	background: #FDFDFD;
+	width: auto;
+	height: 200px;
+	overflow-y: scroll;
+	padding: 7px 10px;
+	margin: 0 0 5px;
+}
+
+.give-mailchimp-list-wrap label {
+	display: block;
+	margin-bottom: 3px;
+}
+
+.give-mailchimp-list-wrap label input[type="checkbox"] {
+	float:left;
+	margin: 0 3px 0 0;
+}
+
+.give-mailchimp-list-wrap label span {
+	margin: 0 0 0 4px;
+}
+
+.give-mailchimp-list-wrap label.list-group {
+	margin-left: 30px;
+	font-size: 13px;
+	font-style: italic;
+}
+
+.give-settings-mailchimp-settings-section .give-mailchimp-list-wrap{
+	width: 400px;
+	max-height: 142px;
+}
+
+.give-mc-label {
+	font-weight:bold;
+	display:block;
+	margin: 0 0 3px;
+	padding: 0;
+}

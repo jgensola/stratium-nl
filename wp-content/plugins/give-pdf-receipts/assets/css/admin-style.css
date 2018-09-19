@@ -1,0 +1,84 @@
+/**
+ * Admin Styles Applied to PDF Receipts Tab
+ */
+
+iframe#give_pdf_builder_ifr {
+	min-height: 700px;
+}
+
+@font-face {
+	font-family: 'give-pdf-receipts-icomoon';
+	src: url('../fonts/icomoon.eot');
+	src: url('../fonts/icomoon.eot') format('embedded-opentype'),
+	url('../fonts/icomoon.ttf') format('truetype'),
+	url('../fonts/icomoon.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.pdf-receipts-icon {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'give-pdf-receipts-icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-right: 4px;
+	line-height: 1;
+
+	/* Enable Ligatures ================ */
+	letter-spacing: 0;
+	-webkit-font-feature-settings: "liga";
+	-moz-font-feature-settings: "liga=1";
+	-moz-font-feature-settings: "liga";
+	-ms-font-feature-settings: "liga" 1;
+	font-feature-settings: "liga";
+	-webkit-font-variant-ligatures: discretionary-ligatures;
+	font-variant-ligatures: discretionary-ligatures;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.pdf-receipts-icon:before {
+	content: "\eadf";
+}
+
+/* Action links */
+
+.give-pdf-action-wrap {
+	display: inline-block;
+	margin: 0 0 0 20px;
+	font-size: 12px;
+	position: relative;
+	top: -2px;
+}
+
+.give-pdf-action-sep {
+	padding: 0 5px;
+	color: #ccc;
+	font-size: 14px;
+}
+
+.give-pdf-actions-disabled {
+	display: none;
+}
+
+/* Single admin form option styles */
+fieldset #give_pdf_receipt_template_name {
+	max-width: 315px;
+}
+
+.give-order-update-box #major-publishing-actions a#pdf-receipt-download {
+	margin-right: 0;
+}
+
+#pdf-receipt-download:before {
+	content: "\f316";
+	font-family: dashicons;
+	font-size: medium;
+	margin-right: 5px;
+	vertical-align: middle;
+}

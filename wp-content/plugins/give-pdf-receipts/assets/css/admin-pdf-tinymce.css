@@ -1,0 +1,53 @@
+/**
+ * Admin Styles Applied to PDF Receipts Tab
+ */
+
+.give_pdf_builder {
+	margin: 0 !important;
+	width: 100% !important;
+	max-width: 100% !important;
+	padding: 0 !important;
+}
+
+.give_pdf_builder img {
+	width: initial !important;
+}
+
+.give_pdf_builder img.alignright {
+	width: initial;
+	float: right;
+}
+
+.give_pdf_builder img.alignleft {
+	width: initial;
+	float: left;
+}
+
+.give_pdf_builder img.aligncenter {
+	width: initial;
+}
+
+
+.give_pdf_builder table, .give_pdf_builder tbody, .give_pdf_builder tr, .give_pdf_builder td {
+	border: 0 !important;
+	border-collapse: collapse !important;
+	vertical-align: top;
+}
+
+.give_pdf_builder table#night_white, .give_pdf_builder table#night_white table, .give_pdf_builder table#night_white tbody, .give_pdf_builder table#night_white tr, .give_pdf_builder table#night_white td {
+	border-collapse: separate !important;
+}
+.give_pdf_builder table#professional_serif, .give_pdf_builder table#professional_serif table, .give_pdf_builder table#professional_serif td {
+	border-collapse: separate !important;
+}
+
+.give_pdf_builder tr, .give_pdf_builder td {
+	padding: 0 !important;
+}
+
+.give_pdf_builder .width_27_5{ width: 27.5% !important;}
+.give_pdf_builder .width_45{ width: 45% !important;}
+.give_pdf_builder .width_30{ width: 30% !important;}
+.give_pdf_builder .width_35{ width: 35% !important;}
+.give_pdf_builder .width_25{ width: 25% !important;}
+.give_pdf_builder .width_50{ width: 50% !important;}

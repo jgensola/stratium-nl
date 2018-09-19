@@ -1,0 +1,177 @@
+# Copyright (C) 2016 Give-MailChimp
+# This file is distributed under the same license as the Give-MailChimp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Give-MailChimp\n"
+"Report-Msgid-Bugs-To: https://github.com/WordImpress/Give-MailChimp/issues/"
+"new\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-10-24 15:23+0100\n"
+"Language-Team: WordImpress <info@wordimpress.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-give-ecommerce360.php:164
+msgid "Donation details have been added to MailChimp successfully"
+msgstr "Dane dotacji zostały dodane do MailChimp"
+
+#: includes/class-give-ecommerce360.php:168,
+#: includes/class-give-ecommerce360.php:212
+msgid "MailChimp Ecommerce360 Error: "
+msgstr "Błąd MailChimp Ecommerce360"
+
+#: includes/class-give-ecommerce360.php:207
+msgid "Donation details have been removed from MailChimp successfully"
+msgstr "Dane dotacji zostały usunięte z MailChimp"
+
+#: includes/class-give-mailchimp.php:84
+msgid "MailChimp API Error:"
+msgstr "Błąd API Mailchimp:"
+
+#: includes/class-give-mailchimp.php:179
+msgid "MailChimp Settings"
+msgstr "Ustawienia MailChimp"
+
+#: includes/class-give-mailchimp.php:186
+msgid "MailChimp API Key"
+msgstr "Klucz API MailChimp"
+
+#: includes/class-give-mailchimp.php:187
+msgid "Enter your MailChimp API key"
+msgstr "Podaj swój klucz API do MailChimp"
+
+#: includes/class-give-mailchimp.php:193
+msgid "Double Opt-In"
+msgstr "Podwójne zapisanie się"
+
+#: includes/class-give-mailchimp.php:194
+msgid ""
+"When checked, users will be sent a confirmation email after signing up, and "
+"will only be added once they have confirmed the subscription."
+msgstr ""
+"Gdy zaznaczone, użytkownicy będą otrzymywali email potwierdzający zapisanie "
+"się i będą dodawani dopiero po potwierdzeniu chęci zapisania się do listy "
+"subskrypcji. "
+
+#: includes/class-give-mailchimp.php:199
+msgid "Enable Globally"
+msgstr "Włącz globalnie"
+
+#: includes/class-give-mailchimp.php:200
+msgid ""
+"Allow donors to sign up for the list selected below on all donation forms? "
+"Note: the list(s) can be customized per form."
+msgstr ""
+"Pozwolić darczyńcom na zapisywanie się do wybranej poniżej listy na "
+"wszystkich formularzach dotacji? "
+
+#: includes/class-give-mailchimp.php:205,
+#: includes/class-give-newsletter.php:349
+msgid "Opt-in Default"
+msgstr "Domyślne Zapisanie się"
+
+#: includes/class-give-mailchimp.php:206
+msgid ""
+"Would you like the newsletter opt-in checkbox checked by default? This "
+"option can be customized per form."
+msgstr ""
+"Czy chcesz aby okienko zapisów do listy newslettera było oznaczone na "
+"\"zapisz się\" domyślnie? Ta opcja może być zmieniona w pojedynczych "
+"formularzach. "
+
+#: includes/class-give-mailchimp.php:208,
+#: includes/class-give-newsletter.php:367
+msgid "Checked"
+msgstr "Zaznaczone"
+
+#: includes/class-give-mailchimp.php:209,
+#: includes/class-give-newsletter.php:374
+msgid "Unchecked"
+msgstr "Odznaczone"
+
+#: includes/class-give-mailchimp.php:216
+msgid "Default List"
+msgstr "Domyślna lista"
+
+#: includes/class-give-mailchimp.php:217
+msgid ""
+"Select the list you wish for all donors to subscribe to by default. Note: "
+"the list(s) can be customized per form."
+msgstr ""
+"Wybierz listę do jakiej wszyscy darczyńcy będą zapisywani domyślnie. Uwaga: "
+"Lista(y) może być zmieniona dla każdego formularza. "
+
+#: includes/class-give-mailchimp.php:223
+msgid "Default Label"
+msgstr "Domyśla etykieta"
+
+#: includes/class-give-mailchimp.php:224
+msgid ""
+"This is the text shown by default next to the MailChimp sign up checkbox. "
+"Yes, this can also be customized per form."
+msgstr ""
+"Jest to domyślny tekst przy okienku zapisywania się do MailChimp. Tak, to "
+"również może być zmienione dla każdego formularza osobno. "
+
+#: includes/class-give-mailchimp.php:227,
+#: includes/class-give-newsletter.php:166
+msgid "Subscribe to our newsletter"
+msgstr "Zapisz się do naszego Newslettera."
+
+#: includes/class-give-newsletter.php:266
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: includes/class-give-newsletter.php:267
+msgid "Opted-in"
+msgstr "Zapisany"
+
+#: includes/class-give-newsletter.php:300
+msgid "Signup for the newsletter"
+msgstr "Zapisz się do newslettera"
+
+#: includes/class-give-newsletter.php:316
+msgid "Disable MailChimp Opt-in"
+msgstr "Wyłącz zapisy MailChimp"
+
+#: includes/class-give-newsletter.php:327
+msgid "Enable MailChimp Opt-in"
+msgstr "Włącz zapisy MailChimp"
+
+#: includes/class-give-newsletter.php:337
+msgid "Custom Label"
+msgstr "Własna Etykieta"
+
+#: includes/class-give-newsletter.php:339
+msgid "Customize the label for the MailChimp opt-in checkbox"
+msgstr "Dostosuj etykietę dla okienka zapisów do MailChimp"
+
+#: includes/class-give-newsletter.php:351
+msgid "Customize the newsletter opt-in option for this form."
+msgstr "Dostosuj opcje zapisów do newslettera da tego formularza."
+
+#: includes/class-give-newsletter.php:360
+msgid "Global Option"
+msgstr "Opcja Globalna"
+
+#: includes/class-give-newsletter.php:383
+msgid "MailChimp Opt-in"
+msgstr "Zapisy MailChimp"
+
+#: includes/class-give-newsletter.php:386
+msgid "Customize the lists and/or groups you wish donors to subscribe to."
+msgstr ""
+"Dostosuj listy i/lub grupy do jakich chcesz by dawcy byli zapisywani. "

@@ -1,0 +1,44 @@
+/**
+ * Give Form Field Manager - Uploads
+ */
+
+//Attachment list
+ul.ffm-attachment-list {
+  text-align: center;
+
+  li {
+	float: left;
+	margin: 0 20px 20px 0;
+	border: 1px solid #eee;
+	padding: 6px;
+	list-style: none;
+
+	a.give-download-file {
+	  margin: 3px 0 8px;
+	  display: block;
+	}
+
+	a.attachment-delete {
+	  color: red;
+	  font-size: 12px;
+	}
+
+	img {
+	  max-width: 100%;
+	}
+
+	&.give-thumbnail div.give-attachment-name {
+	  padding: 0;
+	}
+	&.give-non-image-li div.give-attachment-name {
+	  padding: 8px;
+	}
+
+  }
+
+  div.give-attachment-name {
+	font-size: 12px;
+	font-style: italic;
+  }
+
+}

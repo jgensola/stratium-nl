@@ -1,0 +1,104 @@
+/**
+ * Frontend Fields SCSS
+ */
+form[id*='give-form'] {
+
+  .ffm-clone-field, .ffm-remove-field {
+
+	cursor: pointer;
+	display: inline-block;
+	margin: 0;
+
+	&:before {
+	  font-size: 20px;
+	}
+
+  }
+
+  // Repeater Table
+  .give-repeater-table {
+	border: none;
+
+	th, td {
+	  padding: 2px;
+	  border: none;
+	}
+
+	tr {
+	  border: none;
+	}
+
+  }
+
+  .mce-tinymce {
+	border: 1px solid #CCC;
+  }
+
+  .give-has-error {
+
+	select, input, textarea, .mce-tinymce {
+	  border: 1px solid red;
+	}
+
+  }
+
+  #give-ffm-section {
+	margin: 0 -1.5%;
+  }
+
+  // Fields
+  select.multiselect {
+	min-height: 150px;
+  }
+
+  .ffm-checkbox-field, .ffm-radio-field {
+	label {
+	  font-weight: normal;
+	}
+  }
+
+  // Scaffolding.
+  .give-ffm-form-row-full, .give-ffm-form-row-half, .give-ffm-form-row-one-third, .give-ffm-form-row-two-third {
+	float: left;
+  }
+
+  .give-ffm-form-row-full {
+	width: 100%;
+	padding: 0 1.5%;
+  }
+
+  .give-ffm-form-row-half {
+	width: 50%;
+	padding: 0 1.5%;
+  }
+
+  .give-ffm-form-row-one-third {
+	width: 33.33%;
+	padding: 0 1.5%;
+  }
+
+  .give-ffm-form-row-two-third {
+	width: 66.66%;
+	padding: 0 1.5%;
+  }
+
+  .give-ffm-form-row-responsive {
+	// Full-width on small viewports.
+	@media (max-width: 480px) {
+	  margin-left: 0;
+	  margin-right: 0;
+	  width: 100%;
+	}
+  }
+
+}
+
+.give-display-modal {
+  #give-ffm-section {
+	display: none !important;
+  }
+}
+
+.give-modal .mfp-content [id*='give-form'] [id*=give-ffm-section] {
+  display: block !important;
+}

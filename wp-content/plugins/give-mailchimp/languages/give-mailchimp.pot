@@ -1,0 +1,261 @@
+# Copyright (C) 2018 Give-MailChimp
+# This file is distributed under the same license as the Give-MailChimp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Give-MailChimp\n"
+"Report-Msgid-Bugs-To: https://github.com/WordImpress/Give-MailChimp/issues/new\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Language-Team: WordImpress <info@wordimpress.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: give-mailchimp.php:184
+msgid "Form ID"
+msgstr ""
+
+#: give-mailchimp.php:188
+msgid "Form Title"
+msgstr ""
+
+#: give-mailchimp.php:192
+msgid "Payment Gateway"
+msgstr ""
+
+#: give-mailchimp.php:196
+msgid "Donation Amount"
+msgstr ""
+
+#: give-mailchimp.php:204
+msgid "WP User ID"
+msgstr ""
+
+#: give-mailchimp.php:220
+msgid "Recurring Donation"
+msgstr ""
+
+#: give-mailchimp.php:228
+msgid "Fee Recovery"
+msgstr ""
+
+#: includes/class-give-ecommerce360.php:160
+msgid "Donation details have been added to MailChimp successfully"
+msgstr ""
+
+#: includes/class-give-ecommerce360.php:164, includes/class-give-ecommerce360.php:208
+msgid "MailChimp Ecommerce360 Error: "
+msgstr ""
+
+#: includes/class-give-ecommerce360.php:203
+msgid "Donation details have been removed from MailChimp successfully"
+msgstr ""
+
+#: includes/class-give-mailchimp-api.php:46
+msgid "<strong>Settings updated.</strong> An invalid MailChimp API key `%s` provided. Please enter a valid API key."
+msgstr ""
+
+#: includes/class-give-mailchimp.php:95
+msgid "MailChimp API Error:"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:183, includes/class-give-mailchimp.php:261
+msgid "MailChimp Settings"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:189
+msgid "MailChimp API Key"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:190
+msgid "Enter your MailChimp API key"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:195, includes/give-mailchimp-manual-donations.php:40
+msgid "Double Opt-In"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:196
+msgid "When checked, users will be sent a confirmation email after signing up, and will only be added once they have confirmed the subscription."
+msgstr ""
+
+#: includes/class-give-mailchimp.php:201
+msgid "Enable Globally"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:202
+msgid "Allow donors to sign up for the list selected below on all donation forms? Note: the list(s) can be customized per form."
+msgstr ""
+
+#: includes/class-give-mailchimp.php:207, includes/class-give-newsletter.php:330
+msgid "Opt-in Default"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:208
+msgid "Would you like the newsletter opt-in checkbox checked by default? This option can be customized per form."
+msgstr ""
+
+#: includes/class-give-mailchimp.php:210, includes/class-give-newsletter.php:350
+msgid "Checked"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:211, includes/class-give-newsletter.php:358
+msgid "Unchecked"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:218, includes/class-give-mailchimp.php:384
+msgid "Default List"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:219
+msgid "Select the list you wish for all donors to subscribe to by default. Note: the list(s) can be customized per form."
+msgstr ""
+
+#: includes/class-give-mailchimp.php:224
+msgid "Default Label"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:225
+msgid "This is the text shown by default next to the MailChimp sign up checkbox. Yes, this can also be customized per form."
+msgstr ""
+
+#: includes/class-give-mailchimp.php:228, includes/class-give-newsletter.php:165
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:233, includes/class-give-newsletter.php:365
+msgid "Send Donation Data"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:234, includes/class-give-newsletter.php:367
+msgid "Enabling this option will send donation data such as Donation Form Title, ID, Payment Method and more to MailChimp under the Subscriber's Details."
+msgstr ""
+
+#: includes/class-give-mailchimp.php:250
+msgid "Send FFM field to mailchimp?"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:251
+msgid "Would you like to send FFM field data to mailchimp? IF MailChimp option is set."
+msgstr ""
+
+#: includes/class-give-mailchimp.php:258
+msgid "MailChimp Docs Link"
+msgstr ""
+
+#: includes/class-give-mailchimp.php:391
+msgid ""
+msgstr ""
+
+#: includes/class-give-mailchimp.php:399
+msgid "Refresh Lists"
+msgstr ""
+
+#: includes/class-give-newsletter.php:248, includes/give-mailchimp-activation.php:75
+msgid "MailChimp"
+msgstr ""
+
+#: includes/class-give-newsletter.php:249
+msgid "Opted-in"
+msgstr ""
+
+#: includes/class-give-newsletter.php:282
+msgid "Signup for the newsletter"
+msgstr ""
+
+#: includes/class-give-newsletter.php:300
+msgid "Disable MailChimp Opt-in"
+msgstr ""
+
+#: includes/class-give-newsletter.php:311
+msgid "Enable MailChimp Opt-in"
+msgstr ""
+
+#: includes/class-give-newsletter.php:319
+msgid "Custom Label"
+msgstr ""
+
+#: includes/class-give-newsletter.php:321
+msgid "Customize the label for the MailChimp opt-in checkbox"
+msgstr ""
+
+#: includes/class-give-newsletter.php:332
+msgid "Customize the newsletter opt-in option for this form."
+msgstr ""
+
+#: includes/class-give-newsletter.php:341, includes/class-give-newsletter.php:375, includes/class-give-newsletter.php:411
+msgid "Global Option"
+msgstr ""
+
+#: includes/class-give-newsletter.php:383
+msgid "Send Data"
+msgstr ""
+
+#: includes/class-give-newsletter.php:391
+msgid "Don't Send Data"
+msgstr ""
+
+#: includes/class-give-newsletter.php:400
+msgid "Send FFM Field Data"
+msgstr ""
+
+#: includes/class-give-newsletter.php:402
+msgid "Enabling this option will send custom fields created within Form Field Manager to MailChimp when a donor subscribes. Note: you need to have filled in the "
+msgstr ""
+
+#: includes/class-give-newsletter.php:420
+msgid "Send FFM Fields"
+msgstr ""
+
+#: includes/class-give-newsletter.php:429
+msgid "Don't Send FFM Fields"
+msgstr ""
+
+#: includes/class-give-newsletter.php:439
+msgid "MailChimp Opt-in"
+msgstr ""
+
+#: includes/class-give-newsletter.php:448
+msgid "Customize the lists and/or groups you wish donors to subscribe to."
+msgstr ""
+
+#: includes/give-mailchimp-activation.php:100
+msgid "<strong>Activation Error:</strong> You must have the <a href=\"https://givewp.com/\" target=\"_blank\">Give</a> plugin installed and activated for the MailChimp add-on to activate."
+msgstr ""
+
+#: includes/give-mailchimp-activation.php:109
+msgid "<strong>Activation Error:</strong> You must have <a href=\"%s\" target=\"_blank\">Give</a> version %s+ for the MailChimp add-on to activate."
+msgstr ""
+
+#: includes/give-mailchimp-activation.php:127
+msgid "Settings"
+msgstr ""
+
+#: includes/give-mailchimp-activation.php:162
+msgid "Documentation"
+msgstr ""
+
+#: includes/give-mailchimp-activation.php:172
+msgid "Add-ons"
+msgstr ""
+
+#: includes/give-mailchimp-manual-donations.php:19
+msgid "Send Newsletter Subscribe"
+msgstr ""
+
+#: includes/give-mailchimp-manual-donations.php:26
+msgid "Subscribe the donor to MailChimp?"
+msgstr ""
+
+#: includes/give-mailchimp-manual-donations.php:33
+msgid "Subscribe Immediately"
+msgstr ""
+
+#: includes/give-mailchimp-manual-donations.php:42
+msgid "When checked the donor will be subscribed to the appropriate MailChimp lists assigned to this donation form. Note: if you have double opt-in enabled the donor will be required to confirm their subscription."
+msgstr ""

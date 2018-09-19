@@ -1,0 +1,165 @@
+# Copyright (C) 2016 Give - Constant Contact
+# This file is distributed under the same license as the Give - Constant Contact package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Give - Constant Contact\n"
+"Report-Msgid-Bugs-To: https://github.com/WordImpress/Give-Constant-Contact\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Language-Team: WordImpress <info@wordimpress.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-give-constant-contact.php:202, includes/class-give-constant-contact.php:349
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:304
+msgid "Constant Contact Settings"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:310
+msgid "API Key"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:311
+msgid "Enter your Constant Contact API Key. You will need to register with the Constant Contact Developer Network to get an API Key."
+msgstr ""
+
+#: includes/class-give-constant-contact.php:316
+msgid "Access Token"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:317
+msgid "Enter your Constant Contact Access Token for the API Key above."
+msgstr ""
+
+#: includes/class-give-constant-contact.php:322
+msgid "Enable Globally?"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:323
+msgid "Allow customers to sign-up for the list selected below on all forms? Note: the list(s) can be customized per form."
+msgstr ""
+
+#: includes/class-give-constant-contact.php:328, includes/class-give-constant-contact.php:565
+msgid "Opt-in Default"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:329
+msgid "Would you like the newsletter opt-in checkbox checked by default? This option can be customized per form."
+msgstr ""
+
+#: includes/class-give-constant-contact.php:331, includes/class-give-constant-contact.php:583
+msgid "Checked"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:332, includes/class-give-constant-contact.php:590
+msgid "Unchecked"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:339
+msgid "Default List"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:340
+msgid "Enter your List ID. It will be in the form of a number.  Note: the list(s) can be customized per form."
+msgstr ""
+
+#: includes/class-give-constant-contact.php:345
+msgid "Global Label"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:346
+msgid "This is the text shown by default next to the Constant Contact sign up checkbox. Yes, this can also be customized per form."
+msgstr ""
+
+#: includes/class-give-constant-contact.php:420
+msgid "Getting Contact By Email Address"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:429
+msgid "Creating Contact"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:440
+msgid "Updating Contact"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:455
+msgid "Constant Contact Error: "
+msgstr ""
+
+#: includes/class-give-constant-contact.php:523
+msgid "Signup for the newsletter"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:537
+msgid "Disable Constant Contact Opt-in"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:545
+msgid "Enable Constant Contact Opt-in"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:555
+msgid "Custom Label"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:557
+msgid "Customize the label for the Constant Contact opt-in checkbox"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:567
+msgid "Customize the newsletter opt-in option for this form."
+msgstr ""
+
+#: includes/class-give-constant-contact.php:575
+msgid "Global Option"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:598
+msgid "Email Lists"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:603, includes/class-give-constant-contact.php:741
+msgid "Refresh Lists"
+msgstr ""
+
+#: includes/class-give-constant-contact.php:608
+msgid "Customize the list you wish donors to subscribe to if they opt-in."
+msgstr ""
+
+#: includes/class-give-constant-contact.php:732
+msgid ""
+msgstr ""
+
+#: includes/give-constant-contact-activation.php:70
+msgid "Constant Contact"
+msgstr ""
+
+#: includes/give-constant-contact-activation.php:92
+msgid "<strong>Activation Error:</strong> You must have the <a href=\"https://givewp.com/\" target=\"_blank\">Give</a> core plugin installed and activated for the Constant Contact add-on to activate."
+msgstr ""
+
+#: includes/give-constant-contact-activation.php:101
+msgid "<strong>Activation Error:</strong> You must have the <a href=\"%s\" target=\"_blank\">Give</a> core version %s+ for the Constant Contact add-on to activate."
+msgstr ""
+
+#: includes/give-constant-contact-activation.php:119
+msgid "Settings"
+msgstr ""
+
+#: includes/give-constant-contact-activation.php:153
+msgid "Documentation"
+msgstr ""
+
+#: includes/give-constant-contact-activation.php:163
+msgid "Add-ons"
+msgstr ""
